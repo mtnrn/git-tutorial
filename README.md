@@ -1,6 +1,6 @@
  Git Tutorial
 
-  - feature-A
-
-  -fix-B
+  - Feature-A
+  - Fix-B
+  - Feature-C
 
